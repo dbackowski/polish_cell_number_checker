@@ -16,9 +16,8 @@ module PolishCellNumber
     def initialize(phone_no)
       @phone_no = phone_no
 
-      @phone_no.gsub!('-', '')
-      @phone_no.gsub!(' ', '')
-      @phone_no.gsub!('+48', '')
+      @phone_no.gsub!(/\D/, '')
+      @phone_no.gsub!(/^48/, '')
 
       load_data
       check_number
