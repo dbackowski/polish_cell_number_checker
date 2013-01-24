@@ -1,8 +1,9 @@
+#!/usr/bin/env ruby
 require 'rubygems'
 require 'nokogiri'
 require 'yaml'
 
-# http://www.uke.gov.pl/tablice/home.do?execution=e1s1 download xml file
+# Download XML file from http://www.uke.gov.pl/tablice/NumerPlmn-list.do?execution=e5s1
 
 data = {}
 doc = Nokogiri::XML.parse(File.read(ARGV[0]))

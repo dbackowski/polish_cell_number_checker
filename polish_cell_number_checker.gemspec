@@ -2,7 +2,7 @@
 require File.expand_path('../lib/polish_cell_number_checker/version', __FILE__)
 
 Gem::Specification.new do |gem|
-  gem.authors       = ["Damian Ba\304\207kowski"]
+  gem.authors       = ["Damian Baćkowski"]
   gem.email         = ["damianbackowski@gmail.com"]
   gem.description   = %q{Provide polish cell number check}
   gem.summary       = %q{Provide check when phone number is polish cell number, get operator name}
