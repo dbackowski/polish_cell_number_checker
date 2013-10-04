@@ -14,6 +14,7 @@ Gem::Specification.new do |gem|
   gem.name          = "polish_cell_number_checker"
   gem.require_paths = ["lib", "yaml"]
   gem.version       = PolishCellNumberChecker::VERSION
+  gem.license = 'MIT'
 
   gem.add_development_dependency 'rake'
   gem.add_development_dependency 'rspec'
