@@ -14,7 +14,7 @@ module PolishCellNumber
 
     public
     def initialize(phone_no)
-      @phone_no = phone_no
+     @phone_no = phone_no.clone
 
       @phone_no.gsub!(/\D/, '')
       @phone_no.gsub!(/^48/, '')
