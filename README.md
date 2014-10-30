@@ -6,15 +6,15 @@ Checks if phone number is cell number and get GSM operator name.
 
 Add this line to your application's Gemfile:
 
-  gem 'polish_cell_number_checker'
+    gem 'polish_cell_number_checker'
 
 And then execute:
 
-  $ bundle
+    $ bundle
 
 Or install it yourself as:
 
-  $ gem install polish_cell_number_checker
+    $ gem install polish_cell_number_checker
 
 ## Usage
 
