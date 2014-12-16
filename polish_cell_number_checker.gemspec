@@ -16,6 +16,6 @@ Gem::Specification.new do |gem|
   gem.version       = PolishCellNumberChecker::VERSION
   gem.license = 'MIT'
 
-  gem.add_development_dependency 'rake'
-  gem.add_development_dependency 'rspec'
+  gem.add_development_dependency 'rake', '~> 10.0'
+  gem.add_development_dependency 'rspec', '~> 3.1.0'
 end
