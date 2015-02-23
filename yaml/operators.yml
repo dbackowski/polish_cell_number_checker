@@ -160,6 +160,8 @@ T-MOBILE POLSKA S.A.:
 - '7342'
 - '7343'
 - '7344'
+- '7345'
+- '735'
 - '784'
 - '787'
 - '788'
@@ -201,17 +203,14 @@ Rezerwa Prezesa UKE:
 - '5799'
 - '5790'
 - '6907'
-- '7345'
+- '69967'
 - '7346'
 - '7347'
 - '7348'
 - '7349'
 - '7340'
-- '735'
 - '736'
-- '7398'
 - '7399'
-- '78025'
 - '78026'
 - '7803'
 - '7804'
@@ -322,6 +321,7 @@ Cyfrowy POLSAT S.A.:
 - '73938'
 - '73939'
 - '7397'
+- '7398'
 AMD Telecom S.A.:
 - '69901'
 - '69950'
@@ -341,8 +341,6 @@ Teleena Holding BV:
 - '69971'
 MoSoCo Sp. z o.o.:
 - '69960'
-Interpremium Net Sp. z o.o.:
-- '69967'
 EOON Sp. z o.o.:
 - '69970'
 Telekomunikacja Novum S.A.:
@@ -361,7 +359,7 @@ MASSPAY S.A.:
 Telefonia Dialog Sp. z o.o.:
 - '6998'
 - '6999'
-CenterNet S.A.:
+AERO 2 Sp. z o.o.:
 - '7201'
 - '7202'
 - '7203'
@@ -372,6 +370,7 @@ CenterNet S.A.:
 - '7209'
 - '7200'
 - '8811'
+- '8844'
 Nordisk Polska Sp. z o.o.:
 - '7271'
 MOBYLAND Sp. z o.o.:
@@ -413,6 +412,8 @@ INEA S.A.:
 - '78023'
 - '78024'
 - '78027'
+Interactive Digital Media GmbH:
+- '78025'
 TELOGIC POLAND Sp. z o.o.:
 - '78028'
 - '78029'
@@ -420,7 +421,5 @@ TELOGIC POLAND Sp. z o.o.:
 MNI Mobile S.A.:
 - '7860'
 - '7863'
-AERO 2 Sp. z o.o.:
-- '8844'
 SFERIA S.A.:
 - '8845'
