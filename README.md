@@ -1,4 +1,4 @@
-# PolishCellNumberChecker
+# PolishCellNumberChecker [![Build Status](https://travis-ci.org/dbackowski/polish_cell_number_checker.svg)](https://travis-ci.org/dbackowski/polish_cell_number_checker)
 
 Checks if phone number is cell number and get GSM operator name.
 
