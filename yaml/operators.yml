@@ -220,6 +220,10 @@ Rezerwa Prezesa UKE:
 - '5799'
 - '5790'
 - '6907'
+- '69922'
+- '69970'
+- '69979'
+- '73991'
 - '73994'
 - '73995'
 - '73996'
@@ -361,8 +365,6 @@ AMD Telecom S.A.:
 - '69901'
 - '69950'
 - '72970'
-E-Telko Sp. z o.o.:
-- '69922'
 Teleena Holding BV:
 - '69951'
 - '69952'
@@ -378,9 +380,7 @@ MoSoCo Sp. z o.o.:
 - '69960'
 Nowa Telefonia Sp. z o.o.:
 - '69967'
-EOON Sp. z o.o.:
-- '69970'
-Telekomunikacja Novum S.A.:
+Novum S.A.:
 - '69972'
 - '69973'
 - '69975'
@@ -391,8 +391,6 @@ COMPATEL LIMITED:
 - '72972'
 VOXBONE SA:
 - '69978'
-MASSPAY S.A.:
-- '69979'
 Telefonia Dialog Sp. z o.o.:
 - '6998'
 - '6999'
@@ -453,8 +451,6 @@ PKP Polskie Linie Kolejowe S.A.:
 - '738'
 Vectra S.A.:
 - '73930'
-Interpremium Net Sp. z o.o.:
-- '73991'
 MobiWeb Telecom Limited:
 - '73992'
 AHMES Sp. z o.o.:
@@ -471,7 +467,7 @@ METROPORT Sp. z o.o.:
 - '78028'
 TOYA Sp. z o.o.:
 - '78608'
-Rebel Networks AB:
+Rebtel Networks AB:
 - '78609'
 - '78600'
 SFERIA S.A.:
