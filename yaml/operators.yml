@@ -95,7 +95,6 @@ Rezerwa Prezesa UKE:
 - '45928'
 - '45929'
 - '4593'
-- '4594'
 - '4596'
 - '4597'
 - '4598'
@@ -134,6 +133,8 @@ SIA Ntel Solutions:
 - '45920'
 - '45950'
 - '57948'
+NAU Profit Sp. z o.o.:
+- '45945'
 Orange Polska S.A.:
 - '500'
 - '501'
@@ -360,8 +361,6 @@ Polkomtel Sp. z o.o.:
 - '73724'
 - '73725'
 - '73726'
-- '73728'
-- '73729'
 - '73720'
 - '781'
 - '782'
@@ -510,8 +509,10 @@ Premium Mobile S.A.:
 - '72997'
 - '72998'
 - '72999'
-Fundacja Twoja Wizja:
+Fundacja Nasza Wizja:
 - '73727'
+- '73728'
+- '73729'
 PKP Polskie Linie Kolejowe S.A.:
 - '738'
 VECTRA S.A.:
