@@ -24,7 +24,7 @@ describe PolishCellNumber::Checker do
   describe ".operator_name" do
     context "when passing number is cell number" do
       it "return operator name" do
-        expect(PolishCellNumber::Checker.new('+48 608-111-111').operator_name).to eq 'T-MOBILE POLSKA S.A.'
+        expect(PolishCellNumber::Checker.new('+48 608-111-111').operator_name).to eq 'T-MOBILE POLSKA S.A. (d. PTC S.A.)'
       end
     end
 
