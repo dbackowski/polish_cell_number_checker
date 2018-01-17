@@ -6,11 +6,11 @@ require 'nokogiri'
 require 'yaml'
 require 'zip'
 
-# Download XML file from http://www.uke.gov.pl/tablice/NumerPlmn-list.do?execution=e5s1
+# Download XML file from http://www.archiwum.uke.gov.pl/tablice/NumerPlmn-list.do?execution=e5s1
 
 data = {}
 
-Zip::InputStream.open(StringIO.new(open('http://www.uke.gov.pl/tablice/xml/T2-PLMN_T9-MVNO.xml.zip').read)) do |io|
+Zip::InputStream.open(StringIO.new(open('http://www.archiwum.uke.gov.pl/tablice/xml/T2-PLMN_T9-MVNO.xml.zip').read)) do |io|
   io.get_next_entry
   doc = Nokogiri::XML.parse(io.read)
 
