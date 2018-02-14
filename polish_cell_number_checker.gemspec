@@ -19,5 +19,5 @@ Gem::Specification.new do |gem|
   gem.add_development_dependency 'rake', '~> 10.0'
   gem.add_development_dependency 'rspec', '~> 3.1.0'
   gem.add_development_dependency 'rubyzip', '~> 1.2.0'
-  gem.add_development_dependency 'nokogiri', '~> 1.7.0'
+  gem.add_development_dependency 'nokogiri', '~> 1.8.1'
 end
