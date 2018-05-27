@@ -103,9 +103,6 @@ Rezerwa Prezesa UKE:
 - '45927'
 - '45928'
 - '45929'
-- '45957'
-- '45958'
-- '45959'
 - '5715'
 - '5716'
 - '5717'
@@ -120,6 +117,8 @@ Rezerwa Prezesa UKE:
 - '7809'
 - '7863'
 - '7864'
+- '7865'
+- '7866'
 - '7867'
 ITI Neovision S.A.:
 - '45901'
@@ -223,6 +222,14 @@ Cyfrowy POLSAT S.A.:
 - '7398'
 Next Mobile Sp. z o.o.:
 - '45956'
+KLUCZ Telekomunikacja Sp. z o.o.:
+- '45957'
+- '57946'
+- '57950'
+- '78020'
+Telestrada S.A.:
+- '45958'
+- '45959'
 Orange Polska S.A.:
 - '500'
 - '501'
@@ -265,8 +272,6 @@ Orange Polska S.A.:
 - '7805'
 - '7806'
 - '7800'
-- '7865'
-- '7866'
 - '7868'
 - '7869'
 - '7890'
@@ -365,10 +370,6 @@ SIA NetBalt:
 - '57953'
 - '73993'
 - '78026'
-KLUCZ Telekomunikacja Sp. z o.o.:
-- '57946'
-- '57950'
-- '78020'
 Nowa Telefonia Sp. z o.o.:
 - '57947'
 - '69967'
@@ -548,7 +549,7 @@ AGILE TELECOM S.P.A.:
 - '73991'
 MobiWeb Telecom Limited:
 - '73992'
-Multimedia Polska - Południe S.A.:
+Multimedia Polska S.A. (d. Multimedia Polska - Południe S.A.):
 - '73994'
 - '73995'
 - '73996'
