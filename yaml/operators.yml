@@ -100,7 +100,7 @@ P4 Sp. z o.o.:
 - '8848'
 - '8849'
 - '8840'
-Rezerwa Prezesa UKE:
+Rezerwa Prezesa UKE (zasoby dostępne do przydziału):
 - '451'
 - '452'
 - '453'
@@ -128,6 +128,7 @@ Rezerwa Prezesa UKE:
 - '45927'
 - '45928'
 - '45929'
+- '45957'
 - '4596'
 - '4597'
 - '4599'
@@ -137,7 +138,15 @@ Rezerwa Prezesa UKE:
 - '5718'
 - '5719'
 - '5710'
-- '5735'
+- '57351'
+- '57352'
+- '57353'
+- '57354'
+- '57355'
+- '57356'
+- '57358'
+- '57359'
+- '57350'
 - '5736'
 - '5737'
 - '5738'
@@ -259,11 +268,6 @@ Cyfrowy POLSAT S.A.:
 - '7398'
 Next Mobile Sp. z o.o.:
 - '45956'
-KLUCZ Telekomunikacja Sp. z o.o.:
-- '45957'
-- '57946'
-- '57950'
-- '78020'
 Telestrada S.A.:
 - '45958'
 - '45959'
@@ -299,6 +303,7 @@ Orange Polska S.A.:
 - '5734'
 - '5739'
 - '5730'
+- '57357'
 - '6901'
 - '6902'
 - '6903'
@@ -407,6 +412,10 @@ SIA NetBalt:
 - '57953'
 - '73993'
 - '78026'
+KLUCZ Telekomunikacja Sp. z o.o.:
+- '57946'
+- '57950'
+- '78020'
 Nowa Telefonia Sp. z o.o.:
 - '57947'
 - '69967'
@@ -535,7 +544,7 @@ Multimedia Polska S.A.:
 - '78604'
 - '78605'
 - '78606'
-NEXTGEN MOBILE LTD:
+Kwarantanna (NEXTGEN MOBILE LTD do 11.2018):
 - '72973'
 - '72974'
 CALLFREEDOM Sp. z o.o.:
